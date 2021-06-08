@@ -19,3 +19,11 @@ Created CI/CD Workflow in Github Actions to automate the operations of uploading
 ## Step-3
 
 Added all the other sections including services, about and contact us form with google map api integration
+
+## Step-4
+
+Added some JavaScript for navigation control and smooth scrolling for a single page application
+
+## Step-5
+
+Added Responsiveness in the website for different screens.
