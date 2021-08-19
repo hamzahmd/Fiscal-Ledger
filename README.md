@@ -2,9 +2,9 @@
 
 This is a Single Page Responsive website built with HTML and CSS using Flexbox (Fiction Company)
 
-## Website Link
+## [Preview](https://fiscalledger.surge.sh/)
 
-https://fiscalledger.surge.sh/
+![Overview](https://i.ibb.co/Xt8TRLR/Responsive-HTML-CSS.png)
 
 # Steps used to build the website
 
